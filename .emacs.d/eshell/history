@@ -1,0 +1,18 @@
+ls -al
+ls
+ls -al
+cd bin
+ls
+ls
+ls -al
+runhaskell
+xit
+exit
+ps aux
+pkill ruby
+
+clear
+clear
+
+ls
+ls
