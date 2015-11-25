@@ -21,7 +21,6 @@ USER_ENV_LISTS=(
     env
     path
     alias
-    antigen
     aws
     ec2
     function
@@ -216,7 +215,6 @@ bindkey '^i' expand-or-complete
 # 遅い
 # zmodload zsh/zprof && zprof
 
-source /usr/local/share/zsh/site-functions/_aws
 export RBENV_ROOT=~/.rbenv
 if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
 

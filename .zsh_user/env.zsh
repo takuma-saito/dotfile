@@ -61,7 +61,9 @@ export EC2_HOME="/usr/local/Cellar/ec2-api-tools/1.7.1.0/libexec"
 # export HTTP_PROXY=$T
 # export HTTPS_PROXY=$T
 
-
 # python
 export PYTHONDONTWRITEBYTECODE=1
+
+export HOMEBREW_GITHUB_API_TOKEN="6de311b54c5e9a47c2339bf4e5df2cd7aa0bfc62"
+export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 
